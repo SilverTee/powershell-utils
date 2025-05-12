@@ -1,2 +1,2 @@
 # powershell-utils
-common powershell scripts for sys admins
+Common Powershell scripts for sys admins
